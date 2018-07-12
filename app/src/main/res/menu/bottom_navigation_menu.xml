@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fragment_a"
+        android:title="A"
+        android:icon="@android:drawable/btn_plus"
+        />
+    <item
+        android:id="@+id/fragment_b"
+        android:title="B"
+        android:icon="@android:drawable/btn_plus"
+        />
+    <item
+        android:id="@+id/fragment_c"
+        android:title="C"
+        android:icon="@android:drawable/btn_plus"
+        />
+</menu>
